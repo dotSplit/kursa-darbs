@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dotBoard</title>
+    @Styles.Render("~/Content/css")
+
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/customScripts")
+    @RenderSection("scripts", required: false)
+</head>
+<body>
+<div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <strong>@Html.ActionLink("DotCerberus", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })</strong>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-right">
+                @{
+                    if (Session["CurrentUser-Admin"] != null && Session["CurrentUser-Admin"].ToString() == "True")
+                    {
+                        <li>
+                            <a href="@Url.Action("AdminPanel", "User")">
+                                Admin Panel
+                            </a>
+                        </li>
+                    }
+
+
+                    if (Session["CurrentUser-Screenname"] == null)
+                    {
+                        <li>
+                            <a href="@Url.Action("Authenticate", "User")">
+                                <span class="glyphicon glyphicon-log-in" aria-hidden="true"></span>
+                                Authenticate
+                            </a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li>
+                            <a href="@Url.Action("UserPanel", "User")">
+                                @*<span class="glyphicon glyphicon-log-in" aria-hidden="true"></span>*@
+                                @Session["CurrentUser-Screenname"].ToString()
+                            </a>
+                        </li>
+                        <li>
+                            <a href="@Url.Action("Logout", "User")">
+                                <span class="glyphicon glyphicon-log-in" aria-hidden="true"></span>
+                                Logout
+                            </a>
+                        </li>
+                    }
+                }
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="body-content">
+
+    @RenderBody()
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/customScripts")
+    @RenderSection("scripts", required: false)
+
+    <hr />
+    <footer>
+        <div class="page-footer">
+            &copy; @DateTime.Now.Year - DotCerberus Image/Text Board. Made by : Dāvis Leimanis - D4-2, Rīgas Valsts Tehnikums
+        </div>
+    </footer>
+</div>
+
+</body>
+
+</html>

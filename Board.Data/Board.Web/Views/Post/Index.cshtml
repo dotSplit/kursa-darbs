@@ -1,0 +1,107 @@
+﻿@model Board.Web.Models.PostViewModel
+
+<div class="text-center">
+    <h2>@Model.ChannelModel.Channels.Single(c => c.Id == Model.ChannelModel.CurrentChannel).Title</h2>
+</div>
+
+<hr />
+
+<div class="post-box">
+    <div id="grid" data-columns>
+        @foreach (var item in Model.Posts)
+        {
+            @Html.Partial("PostPartial",item)
+        }
+    </div>
+</div>
+
+@Scripts.Render("~/bundles/Masonry")
+
+
+<div class="sidebar-wrapper">
+    <nav id="sidebar" class="sidebar" style="display: none">
+        @{if (Session["CurrentUser-Admin"] != null && Session["CurrentUser-Admin"].ToString() == "True")
+          {
+            <a id="creation-init-channel" class="danger">New Channel</a>
+          }
+        }
+
+        @Html.Partial("~/Views/Channel/ListPartial.cshtml", Model.ChannelModel)
+    </nav>
+
+    <span id="sidebar-button" class="sidebar-button">
+    </span>
+</div>
+
+@{
+    if (Session["CurrentUser-Username"] != null)
+    {
+        <span class="post-btn" id="creation-init-post">
+                New Post
+        </span>
+    }
+}
+
+<div id="creation-box-channel" style="display: none" class="creation-form">
+    @Html.Partial("~/Views/Channel/Create.cshtml", Model.ChannelModel.NewChannel)
+</div>
+
+<div id="creation-box-post" style="display: none" class="creation-form">
+    @Html.Partial("~/Views/Post/Create.cshtml", Model.NewPost)
+</div>
+
+<div id="creation-box-commentlist" style="display: none" class="comment-list">
+    
+</div>
+
+<div id="edit-box-post" style="display: none" class="creation-form">
+    
+</div>
+
+
+
+
+
+<span id="closecomments-button" style="display: none" class="closecomments-button">
+</span>
+
+<span id="close-post-creator" style="display: none" class="closepost-button">
+</span>
+
+<span id="close-comment-creator" style="display: none" class="closecomment-button">
+</span>
+
+<span id="close-channel-creator" style="display: none" class="closechannel-button">
+</span>
+
+<span id="close-post-editor" style="display: none" class="closepostedit-button">
+</span>
+
+
+@{
+    if (Session["CurrentUser-Username"] != null)
+    {
+        <div id="creation-box-comment" style="display: none" class="creation-form">
+            @*@Html.Partial("~/Views/Comment/Create.cshtml", Model.NewComment)*@
+        </div>
+
+        <span id="post-comment-button" style="display: none" class="post-comment-button">
+            Post comment
+        </span>
+    }
+
+}
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $(".edit-post-btn").off().on('click',
+            function () {
+                var post = $(this).attr('data-post-id');
+                $("#edit-box-post")
+                    .load('@Url.Action("Edit", "Post")?editPost='+post);
+                $("#edit-box-post").fadeIn("fast");
+                $(".closeposted").fadeIn("fast");
+            });
+    })
+</script>

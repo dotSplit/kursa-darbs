@@ -1,0 +1,20 @@
+﻿@using Board.Data.Models
+@model IEnumerable<User>
+@{
+    List<User> users = Model.ToList();
+}
+<div class="panel">
+    <div class="panel-heading post-title">
+        <h4>Top 10 Highest Rep Users:</h4>
+    </div>
+    <div class="panel-body user-list">
+        @{
+            for (int x = 0; x < users.Count; x++)
+            {
+                <div class="user user-top-@x">
+                    @users[x].Screenname [@users[x].Reputation]
+                </div>
+            }
+        }
+    </div>   
+</div>

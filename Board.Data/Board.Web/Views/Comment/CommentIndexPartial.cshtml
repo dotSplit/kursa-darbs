@@ -1,0 +1,14 @@
+﻿@model IEnumerable<Board.Web.Models.CVMExtra>
+    
+<div class="comment-box">
+    <div id="comment-grid">     
+        @{
+            foreach (var item in Model)
+            {
+                @Html.Partial("~/Views/Comment/CommentPartial.cshtml", item)
+            }
+        }
+    </div>
+</div>
+
+

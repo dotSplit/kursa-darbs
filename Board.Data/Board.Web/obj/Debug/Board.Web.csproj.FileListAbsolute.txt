@@ -1,0 +1,492 @@
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\ApplicationInsights.config
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\csc.exe
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\csc.exe.config
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\csc.rsp
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\csi.exe
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\csi.rsp
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\System.AppContext.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\vbc.exe
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\vbc.exe.config
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\vbc.rsp
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\VBCSCompiler.exe
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Board.Web.dll.config
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Board.Web.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Board.Web.pdb
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Antlr3.Runtime.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Microsoft.AI.Web.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Newtonsoft.Json.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\System.Web.Helpers.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\System.Web.Mvc.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\System.Web.Optimization.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\System.Web.Razor.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\System.Web.WebPages.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\System.Web.WebPages.Razor.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\WebGrease.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\System.Web.Helpers.xml
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\System.Web.Mvc.xml
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\System.Web.Optimization.xml
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\System.Web.Razor.xml
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\System.Web.WebPages.xml
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\System.Web.WebPages.Razor.xml
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Antlr3.Runtime.pdb
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Newtonsoft.Json.xml
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\IF\Entity\Board.Data\Board.Web\bin\Microsoft.AI.Web.xml
+D:\Projects\IF\Entity\Board.Data\Board.Web\obj\Debug\Board.Web.csprojResolveAssemblyReference.cache
+D:\Projects\IF\Entity\Board.Data\Board.Web\obj\Debug\Board.Web.dll
+D:\Projects\IF\Entity\Board.Data\Board.Web\obj\Debug\Board.Web.pdb
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\ApplicationInsights.config
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\csc.exe
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\csc.exe.config
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\csc.rsp
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\csi.exe
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\csi.rsp
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\System.AppContext.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\vbc.exe
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\vbc.exe.config
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\vbc.rsp
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\VBCSCompiler.exe
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Board.Web.dll.config
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Board.Web.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Board.Web.pdb
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Antlr3.Runtime.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Microsoft.AI.Web.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Microsoft.ApplicationInsights.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Newtonsoft.Json.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\System.Web.Helpers.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\System.Web.Mvc.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\System.Web.Optimization.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\System.Web.Razor.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\System.Web.WebPages.Deployment.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\System.Web.WebPages.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\System.Web.WebPages.Razor.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\WebGrease.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\System.Web.Helpers.xml
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\System.Web.Mvc.xml
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\System.Web.Optimization.xml
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\System.Web.Razor.xml
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\System.Web.WebPages.xml
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\System.Web.WebPages.Deployment.xml
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\System.Web.WebPages.Razor.xml
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Antlr3.Runtime.pdb
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Newtonsoft.Json.xml
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Microsoft.ApplicationInsights.xml
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\bin\Microsoft.AI.Web.xml
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\obj\Debug\Board.Web.csprojResolveAssemblyReference.cache
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\obj\Debug\Board.Web.dll
+D:\IfInhouse\Training tasks\Dāvis\Entity\Board.Data\Board.Web\obj\Debug\Board.Web.pdb
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\ApplicationInsights.config
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\csc.exe
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\csc.exe.config
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\csc.rsp
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\csi.exe
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\csi.rsp
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\System.AppContext.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\vbc.exe
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\vbc.exe.config
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\vbc.rsp
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\VBCSCompiler.exe
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Board.Web.dll.config
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Board.Web.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Board.Web.pdb
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Antlr3.Runtime.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Microsoft.AI.Web.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Microsoft.ApplicationInsights.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Newtonsoft.Json.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\System.Web.Helpers.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\System.Web.Mvc.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\System.Web.Optimization.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\System.Web.Razor.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\System.Web.WebPages.Deployment.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\System.Web.WebPages.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\System.Web.WebPages.Razor.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\WebGrease.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\System.Web.Helpers.xml
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\System.Web.Mvc.xml
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\System.Web.Optimization.xml
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\System.Web.Razor.xml
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\System.Web.WebPages.xml
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\System.Web.WebPages.Deployment.xml
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\System.Web.WebPages.Razor.xml
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Antlr3.Runtime.pdb
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Newtonsoft.Json.xml
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Microsoft.ApplicationInsights.xml
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\bin\Microsoft.AI.Web.xml
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\obj\Debug\Board.Web.csprojResolveAssemblyReference.cache
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\obj\Debug\Board.Web.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Web\obj\Debug\Board.Web.pdb
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\ApplicationInsights.config
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\csc.exe
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\csc.exe.config
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\csc.rsp
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\csi.exe
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\csi.rsp
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\System.AppContext.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\vbc.exe
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\vbc.exe.config
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\vbc.rsp
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\VBCSCompiler.exe
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Board.Web.dll.config
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Board.Web.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Board.Web.pdb
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Antlr3.Runtime.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Microsoft.AI.Web.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Microsoft.ApplicationInsights.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Newtonsoft.Json.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\System.Web.Helpers.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\System.Web.Mvc.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\System.Web.Optimization.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\System.Web.Razor.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\System.Web.WebPages.Deployment.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\System.Web.WebPages.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\System.Web.WebPages.Razor.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\WebGrease.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\System.Web.Helpers.xml
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\System.Web.Mvc.xml
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\System.Web.Optimization.xml
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\System.Web.Razor.xml
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\System.Web.WebPages.xml
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\System.Web.WebPages.Deployment.xml
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\System.Web.WebPages.Razor.xml
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Antlr3.Runtime.pdb
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Newtonsoft.Json.xml
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Microsoft.ApplicationInsights.xml
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\bin\Microsoft.AI.Web.xml
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\obj\Debug\Board.Web.csprojResolveAssemblyReference.cache
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\obj\Debug\Board.Web.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Web\obj\Debug\Board.Web.pdb
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\ApplicationInsights.config
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\csc.exe
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\csc.exe.config
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\csc.rsp
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\csi.exe
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\csi.rsp
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\System.AppContext.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\vbc.exe
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\vbc.exe.config
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\vbc.rsp
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\VBCSCompiler.exe
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Board.Web.dll.config
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Board.Web.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Board.Web.pdb
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Antlr3.Runtime.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.Web.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.ApplicationInsights.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Newtonsoft.Json.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.Helpers.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.Mvc.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.Optimization.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.Razor.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.WebPages.Deployment.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.WebPages.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.WebPages.Razor.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\WebGrease.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.Helpers.xml
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.Mvc.xml
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.Optimization.xml
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.Razor.xml
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.WebPages.xml
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.WebPages.Deployment.xml
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.WebPages.Razor.xml
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Antlr3.Runtime.pdb
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Newtonsoft.Json.xml
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.ApplicationInsights.xml
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.Web.xml
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\obj\Debug\Board.Web.csprojResolveAssemblyReference.cache
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\obj\Debug\Board.Web.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\obj\Debug\Board.Web.pdb
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Board.Data.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\EntityFramework.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Board.Data.pdb
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Board.Data.dll.config
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\EntityFramework.xml
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\EntityFramework.SqlServer.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\EntityFramework.SqlServer.xml
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\ApplicationInsights.config
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\csc.exe
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\csc.exe.config
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\csc.rsp
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\csi.exe
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\csi.rsp
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\System.AppContext.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\System.Collections.Immutable.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\System.IO.FileSystem.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\System.Reflection.Metadata.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\vbc.exe
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\vbc.exe.config
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\vbc.rsp
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\VBCSCompiler.exe
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\roslyn\VBCSCompiler.exe.config
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Board.Web.dll.config
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Board.Web.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Board.Web.pdb
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Antlr3.Runtime.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Board.Data.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\EntityFramework.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\EntityFramework.SqlServer.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.Agent.Intercept.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.DependencyCollector.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.Web.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.WindowsServer.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.ApplicationInsights.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.Web.Infrastructure.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Newtonsoft.Json.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.Helpers.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.Mvc.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.Optimization.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.Razor.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.WebPages.Deployment.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.WebPages.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.WebPages.Razor.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\WebGrease.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Board.Data.pdb
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Board.Data.dll.config
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\EntityFramework.xml
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\EntityFramework.SqlServer.xml
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.Helpers.xml
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.Mvc.xml
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.Optimization.xml
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.Razor.xml
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.WebPages.xml
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.WebPages.Deployment.xml
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\System.Web.WebPages.Razor.xml
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Antlr3.Runtime.pdb
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Newtonsoft.Json.xml
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.ApplicationInsights.xml
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.DependencyCollector.xml
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.WindowsServer.xml
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.Web.xml
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\obj\Debug\Board.Web.csprojResolveAssemblyReference.cache
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\obj\Debug\Board.Web.csproj.CoreCompileInputs.cache
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\obj\Debug\Board.Web.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Web\obj\Debug\Board.Web.pdb
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\ApplicationInsights.config
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\csc.exe
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\csc.exe.config
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\csc.rsp
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\csi.exe
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\csi.rsp
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\System.AppContext.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\System.Collections.Immutable.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\System.IO.FileSystem.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\vbc.exe
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\vbc.exe.config
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\vbc.rsp
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\VBCSCompiler.exe
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\roslyn\VBCSCompiler.exe.config
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Board.Web.dll.config
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Board.Web.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Board.Web.pdb
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Antlr3.Runtime.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Board.Data.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\EntityFramework.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\EntityFramework.SqlServer.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.DependencyCollector.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.Web.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.WindowsServer.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Microsoft.ApplicationInsights.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Microsoft.Web.Infrastructure.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Newtonsoft.Json.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\System.Web.Helpers.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\System.Web.Mvc.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\System.Web.Optimization.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\System.Web.Razor.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\System.Web.WebPages.Deployment.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\System.Web.WebPages.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\System.Web.WebPages.Razor.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\WebGrease.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Board.Data.pdb
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Board.Data.dll.config
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\EntityFramework.xml
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\EntityFramework.SqlServer.xml
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\System.Web.Helpers.xml
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\System.Web.Mvc.xml
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\System.Web.Optimization.xml
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\System.Web.Razor.xml
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\System.Web.WebPages.xml
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\System.Web.WebPages.Deployment.xml
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\System.Web.WebPages.Razor.xml
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Antlr3.Runtime.pdb
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Newtonsoft.Json.xml
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Microsoft.ApplicationInsights.xml
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.DependencyCollector.xml
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.WindowsServer.xml
+Z:\Projects\Davis\Board\Board.Data\Board.Web\bin\Microsoft.AI.Web.xml
+Z:\Projects\Davis\Board\Board.Data\Board.Web\obj\Debug\Board.Web.csprojResolveAssemblyReference.cache
+Z:\Projects\Davis\Board\Board.Data\Board.Web\obj\Debug\Board.Web.csproj.CoreCompileInputs.cache
+Z:\Projects\Davis\Board\Board.Data\Board.Web\obj\Debug\Board.Web.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Web\obj\Debug\Board.Web.pdb

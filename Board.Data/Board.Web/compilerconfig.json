@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "Content/cerberus-base.css",
+    "inputFile": "Content/cerberus-base.scss"
+  },
+  {
+    "outputFile": "Content/_bootstrap.css",
+    "inputFile": "Content/_bootstrap.scss"
+  }
+]

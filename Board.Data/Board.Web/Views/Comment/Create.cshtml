@@ -1,0 +1,72 @@
+﻿@model Board.Web.Models.CommentCreateViewModel
+
+<div class="form-center">
+    <h2>Post a comment</h2>
+    @using (Ajax.BeginForm("Create", "Comment", new AjaxOptions {AllowCache = false, HttpMethod = "POST"}, new {id = "comment-form"}))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Content, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextAreaFor(model => model.Content, 20, 40, new { htmlAttributes = new { @class = "form-control" } })
+                    <br />
+                    @Html.ValidationMessageFor(model => model.Content, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <input type="hidden" name="postId" value="@Model.PostId"/>
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input id="post-comment" type="submit" class="btn btn-default" >
+                </div>
+            </div>
+            
+            <script type="text/javascript">
+                $(document).ready(function () {
+                    function loadComments(postId) {
+                        if (postId !== null) {
+                            $.ajax({
+                                type: "GET",
+                                url: "Comment/Index",
+                                data: { 'postId': window.CurrentPost },
+                                cache: false,
+                                success: function (data) {
+                                    $("#creation-box-commentlist").html(data);
+                                    salvattore.rescanMediaQueries();
+                                }
+                            });
+                        };
+                    };
+                    
+                    $("#post-comment").click(function(e) {
+                        saveComment();
+
+                    });
+
+                    function saveComment() {
+                        var form = $("#comment-form");
+                        $.validator.unobtrusive.parse(form);
+                        form.validate();
+                        if (form.valid()) {
+                            $.ajax({
+                                url: '@Url.Action("Create", "Comment")',
+                                dataType: 'json',
+                                data: $("#comment-form").serialize(),
+                                type: 'POST',
+                                complete: function() {
+                                    $("#creation-box-comment").fadeOut("fast");
+                                    loadComments(@Model.PostId);
+                                    salvattore.rescanMediaQueries();
+                                }
+                            });
+                        }                    
+                    }
+                });
+            </script>
+
+        </div>
+    }
+</div>

@@ -1,0 +1,32 @@
+﻿@model Board.Web.Models.PVMChannels
+
+<div class="channel-list" id="style-3">
+    <div class="panel">
+        <div class="panel-heading post-title">
+            <h4>Currently available channels:</h4>
+        </div>
+        <div class="panel-body">
+            @{
+                foreach (var item in Model.Channels)
+                {
+                    <div class="multi-list">
+                        <a href="@Url.Action("Index", "Post", new {chn = item.Id})">
+                            <div class="channel-btn @{if (item.Id == Model.CurrentChannel)
+                                                    {<text>active-channel</text>}}">
+                                @Html.DisplayFor(modelItem => item.Title)
+                            </div>
+                        </a>
+                        @{
+                            if (Session["CurrentUser-Admin"] != null && Session["CurrentUser-Admin"].ToString() == "True")
+                            {
+                                <div class="post-admin-controls">
+                                    <a href="@Url.Action("Delete", "Channel", new {id = item.Id})" class="danger"><span class="glyphicon glyphicon-trash danger"></span>Delete</a>
+                                </div>
+                            }
+                        }
+                    </div>
+                }
+            }
+        </div>
+    </div>   
+</div>

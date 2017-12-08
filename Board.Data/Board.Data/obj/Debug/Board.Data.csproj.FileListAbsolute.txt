@@ -1,0 +1,97 @@
+D:\Projects\IF\Entity\Board.Data\Board.Data\bin\Debug\Board.Data.dll.config
+D:\Projects\IF\Entity\Board.Data\Board.Data\bin\Debug\Board.Data.dll
+D:\Projects\IF\Entity\Board.Data\Board.Data\bin\Debug\Board.Data.pdb
+D:\Projects\IF\Entity\Board.Data\Board.Data\bin\Debug\EntityFramework.dll
+D:\Projects\IF\Entity\Board.Data\Board.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\IF\Entity\Board.Data\Board.Data\bin\Debug\EntityFramework.xml
+D:\Projects\IF\Entity\Board.Data\Board.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\IF\Entity\Board.Data\Board.Data\obj\Debug\Board.Data.csprojResolveAssemblyReference.cache
+D:\Projects\IF\Entity\Board.Data\Board.Data\obj\Debug\Board.Data.dll
+D:\Projects\IF\Entity\Board.Data\Board.Data\obj\Debug\Board.Data.pdb
+D:\Projects\IF\Entity\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.Initial.resources
+D:\Projects\IF\Entity\Board.Data\Board.Data\obj\Debug\Board.Data.csproj.GenerateResource.Cache
+D:\Projects\IF\Entity\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.Setbounds.resources
+D:\Projects\IF\Entity\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.Fixcolumnnames.resources
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Data\bin\Debug\Board.Data.dll.config
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Data\bin\Debug\Board.Data.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Data\bin\Debug\Board.Data.pdb
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Data\bin\Debug\EntityFramework.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Data\bin\Debug\EntityFramework.xml
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Data\obj\Debug\Board.Data.csprojResolveAssemblyReference.cache
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.Initial.resources
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.Setbounds.resources
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.Fixcolumnnames.resources
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Data\obj\Debug\Board.Data.csproj.GenerateResource.Cache
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Data\obj\Debug\Board.Data.dll
+D:\IfInhouse\Training tasks\Dāvis\BoardWebApp\Board.Data\Board.Data\obj\Debug\Board.Data.pdb
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Data\bin\Debug\Board.Data.dll.config
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Data\bin\Debug\Board.Data.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Data\bin\Debug\Board.Data.pdb
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Data\bin\Debug\EntityFramework.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Data\bin\Debug\EntityFramework.xml
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Data\obj\Debug\Board.Data.csprojResolveAssemblyReference.cache
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.Initial.resources
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.Setbounds.resources
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.Fixcolumnnames.resources
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Data\obj\Debug\Board.Data.csproj.GenerateResource.Cache
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Data\obj\Debug\Board.Data.dll
+D:\IfInhouse\Training tasks\Dāvis\Board.Data\Board.Data\obj\Debug\Board.Data.pdb
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\bin\Debug\Board.Data.dll.config
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\bin\Debug\Board.Data.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\bin\Debug\Board.Data.pdb
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\bin\Debug\EntityFramework.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\bin\Debug\EntityFramework.xml
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.csprojResolveAssemblyReference.cache
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.Initial.resources
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.Setbounds.resources
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.Fixcolumnnames.resources
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.csproj.GenerateResource.Cache
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.dll
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.pdb
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.columnnames.resources
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.UpdatedDatabase.resources
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.CosmeticDBColumnnamefix.resources
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.removedunnecessaryrequiredfielddemands.resources
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.addeddefaultgroupfield.resources
+D:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.Imageuploadpreparation.resources
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\bin\Debug\Board.Data.dll.config
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\bin\Debug\Board.Data.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\bin\Debug\Board.Data.pdb
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\bin\Debug\EntityFramework.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\bin\Debug\EntityFramework.xml
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.csprojResolveAssemblyReference.cache
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.csproj.CoreCompileInputs.cache
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.dll
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.pdb
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.Init.resources
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.csproj.GenerateResource.Cache
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.ayy.resources
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.ayy2.resources
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.AddedEMAIL.resources
+F:\IfInhouse\Training tasks\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.removedavatar.resources
+Z:\Projects\Davis\Board\Board.Data\Board.Data\bin\Debug\Board.Data.dll.config
+Z:\Projects\Davis\Board\Board.Data\Board.Data\bin\Debug\Board.Data.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Data\bin\Debug\Board.Data.pdb
+Z:\Projects\Davis\Board\Board.Data\Board.Data\bin\Debug\EntityFramework.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Data\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Data\bin\Debug\EntityFramework.xml
+Z:\Projects\Davis\Board\Board.Data\Board.Data\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Projects\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.csprojResolveAssemblyReference.cache
+Z:\Projects\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.Init.resources
+Z:\Projects\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.ayy.resources
+Z:\Projects\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.ayy2.resources
+Z:\Projects\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.AddedEMAIL.resources
+Z:\Projects\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.removedavatar.resources
+Z:\Projects\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.csproj.GenerateResource.Cache
+Z:\Projects\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.csproj.CoreCompileInputs.cache
+Z:\Projects\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.dll
+Z:\Projects\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.pdb
+Z:\Projects\Davis\Board\Board.Data\Board.Data\obj\Debug\Board.Data.Migrations.addedmissingfields.resources

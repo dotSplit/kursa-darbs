@@ -1,0 +1,67 @@
+﻿@model Board.Web.Models.UserPanelModel
+
+<div class="row">
+    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+        <div class="panel base-panel user-panel">
+            <div class="panel-heading">
+                <div class="post-title">
+                    Welcome to your panel, <br/>
+                    @Model.User.Screenname! <br/>
+                </div>               
+            </div>
+            <div class=" base-panel">
+                <div class="panel-body">
+                    <div class="label-val">
+                        <div class="lab">
+                            Full Name
+                        </div>
+                        <div class="val">
+                            @Model.User.Name @Model.User.Surname
+                        </div>
+                    </div>
+                    <div class="label-val">
+                        <div class="lab">
+                            Username
+                        </div>
+                        <div class="val">
+                            @Model.User.Username
+                        </div>
+                    </div>                   
+                    <div class="label-val">
+                        <div class="lab">
+                            E-Mail
+                        </div>
+                        <div class="val">
+                            @Model.User.EMail
+                        </div>
+                    </div>
+                    
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-8 col-lg-9">
+        <div class="panel">
+            <div class="panel-heading">
+                <ul class="nav nav-tabs">
+                    <li class="active"><a data-toggle="tab" href="#myPosts">Your Posts</a></li>
+                    <li><a data-toggle="tab" href="#myOptions">Edit Data</a></li>
+                </ul>
+            </div>
+            
+            <div class="panel-body tab-content">
+                <div id="myPosts" class="tab-pane fade in active">
+
+                </div>
+                <div id="myOptions" class="tab-pane fade">
+                    @Html.Partial("Edit", Model.UserEdit);
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+@Scripts.Render("~/bundles/Masonry")

@@ -1,0 +1,17 @@
+﻿@using Board.Web.Models
+@model Board.Web.Models.HomeViewModel
+
+
+<div class="row">
+    <div class="col-md-3">
+        @Html.Partial("~/Views/Channel/ListPartial.cshtml", ViewData.Model.Channels)
+    </div>
+    <div class="col-md-6">
+        
+    </div>
+    <div class="col-md-3">
+        @Html.Partial("~/Views/User/TopUserListPartial.cshtml", ViewData.Model.TopUsers)
+    </div>
+</div>
+
+

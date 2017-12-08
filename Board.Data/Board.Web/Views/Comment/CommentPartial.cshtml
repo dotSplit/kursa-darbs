@@ -1,0 +1,115 @@
+﻿@model Board.Web.Models.CVMExtra
+    
+@helper fancyClass()
+{
+
+string Class = $"user-top-{Model.CommentRating} user-rmbg";
+    <h6 class="@Class">
+        @Html.DisplayFor(m => Model.Comment.User.Screenname)
+        <span @if (Math.Abs(Model.Comment.Date.Subtract(DateTime.Now).TotalHours) <= 24)
+              {
+                  <text> class="label label-primary" </text>
+              }
+              else
+              {
+                  <text> class="hidden" </text>
+              }>New!</span>   
+    </h6>
+}
+
+@{
+    string showID = "show" + Model.Comment.Id;
+    string editID = "edit" + Model.Comment.Id;
+    string ID = Model.Comment.Id.ToString();
+    string clickID = "click" + Model.Comment.Id;
+}
+
+<div class="comment">
+    <div class="panel">
+        <div class="panel-heading">
+            <div class="post-title user-list">
+                    @fancyClass()       
+            </div>
+        </div>
+        
+        <div class="panel-body tab-content">
+            <div class="tab-pane post-description fade in active" id=@showID>
+                <p>
+                    @Html.DisplayFor(c => c.Comment.Content)
+                </p>
+            </div>
+            <div class="post-description tab-pane fade" id="@editID">
+                @using (Ajax.BeginForm("Edit", "Comment", new AjaxOptions { AllowCache = false, HttpMethod = "POST", Url = "Comment/Edit" }))
+                { 
+                    @Html.TextAreaFor(model => model.Comment.Content, new { @class = "form-control form-hack", id = String.Format("{0}", ID) })
+                    <a href="#" type="submit" class="text-danger editing-btn" id="@Model.Comment.Id-btn">Save Edit</a>
+                }                
+                <a href="#@showID" data-toggle="tab" data-comID="" class="text-danger" id="@clickID">Cancel Edit</a>
+                <script type="text/javascript">
+                    $("#@Model.Comment.Id-btn").off().on("click", function (e) {
+                        var text = $("#@Model.Comment.Id").val();
+                        $.ajax({
+                            url: '@Url.Action("Edit", "Comment")',
+                            data: { "commentId": @Model.Comment.Id, "content": text},
+                            type: "POST",
+                            onComplete: function () {
+                            }
+                        });
+                        $("#@showID").children().text(text);
+                        $("#@clickID").trigger('click');
+                    })
+                </script>
+
+            </div>
+        </div>
+        
+        <div class="panel-footer">
+            <div class="post-date">
+                @Html.DisplayFor(c => c.Comment.Date)
+            </div>
+            @{
+                if (Session["CurrentUser-Admin"] != null && Session["CurrentUser-Admin"].ToString() == "True")
+                {
+                    <div class="post-admin-controls nav-tabs">
+                        <a href="#" data-commentid="@Model.Comment.Id" class="text-danger deleting-btn active"><span class="glyphicon glyphicon-trash"></span>Delete</a>
+                        <a href="#@editID" data-toggle="tab" class="text-danger editing-btn"><span class="glyphicon glyphicon-edit"></span>Edit</a>
+                    </div>
+                    <script src="~/Scripts/creation-form-control.js"></script>
+                    <script>
+                        $(document).ready(function () {
+                            
+                            $(".deleting-btn").off().on('click',
+                                function(e) {
+                                    e.preventDefault();
+                                    $.ajax({
+                                        url: '@Url.Action("Delete","Comment")',
+                                        data: { "comment": $(this).attr('data-commentid') },
+                                        type: 'POST',
+                                        complete: function() {
+                                            loadComments(@Model.Comment.Post.Id);
+                                        }
+                                    });
+                                });
+
+                            function loadComments(postId) {
+                                if (postId !== null) {
+                                    $.ajax({
+                                        type: "GET",
+                                        url: "Comment/Index",
+                                        data: { 'postId': window.CurrentPost },
+                                        cache: false,
+                                        success: function(data) {
+                                            $("#creation-box-commentlist").html(data);
+
+                                        }
+                                    });
+                                }
+                            }
+                        });
+
+                    </script>
+                }
+            }    
+        </div>
+    </div>
+</div>

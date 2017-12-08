@@ -1,0 +1,61 @@
+﻿@model Board.Web.Models.PVMExtra
+
+@helper fancyClass(){
+
+    string Class = $"user-top-{Model.PostRating} user-rmbg";
+    <h6 class="@Class">
+        @Html.DisplayFor(m => Model.Post.User.Screenname)
+    </h6>
+}
+
+<div class="post">
+    <div class="panel">
+        <div class="panel-heading">
+            <div class="post-title user-list">
+                <h4>
+                    @Html.DisplayFor(m => Model.Post.Title)
+                    <span @if (Math.Abs(Model.Post.Date.Subtract(DateTime.Now).TotalHours) <= 24) { <text> class="label label-primary" </text>   } else { <text> class="hidden" </text>  }>New!</span>
+                </h4>
+                @fancyClass()
+                    
+         </div>
+        </div>
+            
+        <div class="panel-body">
+            <div class="post-description" id="style-3">
+                <p>
+                    @Html.DisplayFor(m => Model.Post.Content)
+                </p>
+                @{
+                    if (Session["CurrentUser-Username"] != null && Session["CurrentUser-Username"].ToString() != @Model.Post.User.Username)
+                    {
+                        <a href="#" data-target=@Model.Post.User.Username class="upvote"><span class="glyphicon glyphicon-arrow-up"></span></a>
+                        <a href="#" data-target=@Model.Post.User.Username class="downvote"><span class="glyphicon glyphicon-arrow-down"></span></a>
+                    }
+                }
+            </div>
+        </div>
+
+        <div class="panel-footer">
+            <div class="post-date">
+                @Html.DisplayFor(m => Model.Post.Date)
+            </div>
+            <a class="view-comments-btn" id="@Model.Post.Id">
+                <div class="post-comments">
+                    View comments
+                </div>
+            </a>
+
+            @{
+                if (Session["CurrentUser-Admin"] != null && Session["CurrentUser-Admin"].ToString() == "True")
+                {
+                    <div class="post-admin-controls">
+                        <a href="@Url.Action("Delete", "Post", new {post = Model.Post.Id, returningChannel = Model.Post.Channel.Id})" class="text-danger"><span class="glyphicon glyphicon-trash"></span>Delete</a>
+                        <a href="#" class="text-info edit-post-btn" data-post-id="@Model.Post.Id"><span class="glyphicon glyphicon-edit"></span>Edit</a>
+                    </div>
+                }
+
+            }         
+        </div>
+    </div>
+</div>
